@@ -31,10 +31,9 @@ In the past, I worked 3 months in the Municipality of Lanús, in the IT Area.
 * DB Administration.
 * Networking and security
 * Cloud Computing (AWS - Azure).
-* Constantly learning and updating knowledge.
-* Aptitude for rapid learning of new technologies.
-* Always looking for doing the best possible job.
-
+* Constantly learning.
+* Quick learning of new technologies.
+* 99% is not 100%.
 
 # Education
 
