@@ -2,7 +2,7 @@
 
 <img src="profile.jpeg"
      alt="Markdown Monster icon"
-     style="float:right; height: 120px; margin-right: 20%" />
+     style="float:right; width: 20%; margin-right: 15%" />
 
 luciano_torres98@hotmail.com\
 Pichincha 71 - Dpt 5 - Buenos Aires, Lanús Oeste\
