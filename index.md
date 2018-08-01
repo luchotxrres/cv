@@ -1,6 +1,3 @@
-<head>
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-</head>
 <img alt="profile" width="18%" src="profile.jpeg" align="right"/>
 
 # Luciano Torres 
@@ -13,7 +10,7 @@ Skype: luciano_torres98
 # Table of Contents
 - [Experience](#experience)
    - [Other](#other)
-- [Aptitudes & Skills](#aptitudes-&-skills)
+- [Aptitudes & Skills](#aptitudes--skills)
 - [Education](#education)
 - [Courses](#courses)
 
@@ -50,6 +47,8 @@ In the past, I worked 3 months in the Municipality of Lanús, in the IT Area.
 * Customer Experience
 * H2H
 * Design Thinking
+
+<footer></footer>
 
 [Linkedin]: https://ar.linkedin.com/in/ltorres/
 [Zentricx]: http://www.zentricx.com
