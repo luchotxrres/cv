@@ -1,6 +1,4 @@
-<head>
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-</head>
+# [GITHUB PAGE]
 <img alt="profile" width="18%" src="profile.jpeg" align="right"/>
 
 # Luciano Torres 
@@ -53,3 +51,4 @@ In the past, I worked 3 months in the Municipality of Lanús, in the IT Area.
 
 [Linkedin]: https://ar.linkedin.com/in/ltorres/
 [Zentricx]: http://www.zentricx.com
+[GITHUB PAGE]: https://luchotxrres.github.io/CV/
