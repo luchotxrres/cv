@@ -1,6 +1,6 @@
 # Luciano Torres 
 
-<img alt="profile" width="20%" src="profile.jpeg" align="right"/>
+<img alt="profile" width="150" height="150px" src="profile.jpeg" align="right"/>
 
 luciano_torres98@hotmail.com\
 Pichincha 71 - Dpt 5 - Buenos Aires, Lanús Oeste\
