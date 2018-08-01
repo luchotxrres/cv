@@ -1,13 +1,11 @@
 # Luciano Torres 
 
-<img alt="profile" style="float:right; width: 20%; margin-right: 15%" src="profile.jpeg" />
-
+<img alt="profile" width="20%" src="profile.jpeg" align="right"/>
 
 luciano_torres98@hotmail.com\
 Pichincha 71 - Dpt 5 - Buenos Aires, Lanús Oeste\
 Tel: 4225-4444 / Mobile: 1159486326\
 Skype: luciano_torres98
-
 
 # Table of Contents
 - [Experience](#Experience)
