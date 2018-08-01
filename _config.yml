@@ -6,4 +6,4 @@ description: "Freshman21 is a Jekyll blog theme." # You can edit this line in _c
 your feed.xml site description
 keywords: "Jekyll, theme, Freshman21" # html meta keywords
 baseurl: "/freshman21" # the subpath of your site, e.g. /blog
-url: "http://luchotxrres.github.io/CV" # the base hostname & protocol for your site
+url: "https://luchotxrres.github.io/CV/" # the base hostname & protocol for your site
