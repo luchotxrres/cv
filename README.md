@@ -4,7 +4,7 @@
 # Luciano Torres 
 
 luciano_torres98@hotmail.com\
-Pichincha 71 - Dpt 5 - Buenos Aires, Lanús Oeste\
+71 Pichincha st - Dpt 5 - Buenos Aires, Lanús Oeste\
 Tel: 4225-4444 / Mobile: 1159486326\
 Skype: luciano_torres98
 
