@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
 <img alt="profile" width="18%" src="profile.jpeg" align="right"/>
 
 # Luciano Torres 
