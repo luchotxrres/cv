@@ -1,6 +1,6 @@
-# Luciano Torres 
+<img alt="profile" width="18%" src="profile.jpeg" align="right"/>
 
-<img alt="profile" width="150" height="150px" src="profile.jpeg" align="right"/>
+# Luciano Torres 
 
 luciano_torres98@hotmail.com\
 Pichincha 71 - Dpt 5 - Buenos Aires, Lanús Oeste\
@@ -8,11 +8,11 @@ Tel: 4225-4444 / Mobile: 1159486326\
 Skype: luciano_torres98
 
 # Table of Contents
-- [Experience](#Experience)
-   - [Other](#Other)
-- [Aptitudes & Skills](#Aptitudes-&-Skills)
-- [Education](#Education)
-- [Courses](#Courses)
+- [Experience](#experience)
+   - [Other](#other)
+- [Aptitudes & Skills](#aptitudes-&-skills)
+- [Education](#education)
+- [Courses](#courses)
 
 # Experience
 
