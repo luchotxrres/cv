@@ -11,7 +11,7 @@ Skype: luciano_torres98
 # Table of Contents
 - [Experience](#experience)
    - [Other](#other)
-- [Aptitudes & Skills](#aptitudes-&-skills)
+- [Aptitudes & Skills](#aptitudes--skills)
 - [Education](#education)
 - [Courses](#courses)
 
