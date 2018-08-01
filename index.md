@@ -1,4 +1,4 @@
-<img alt="profile" width="18%" src="profile.jpeg" align="right"/>
+<img alt="profile" width="18%" src="assets/images/profile.jpeg" align="right"/>
 
 # Luciano Torres 
 
