@@ -9,7 +9,7 @@ Skype: luciano_torres98
 
 # Table of Contents
 - [Experience](#experience)
-   - [Other](#other)
+    - [Other](#other)
 - [Aptitudes & Skills](#aptitudes--skills)
 - [Education](#education)
 - [Courses](#courses)
@@ -18,24 +18,16 @@ Skype: luciano_torres98
 
 ### [Zentricx] - September 2017 to present
 
-#### DevOps Jr
-* Managing sites of Arcor in AWS (Win/Linux).
+### DevOps Jr
+* Managing sites in AWS (Win/Linux).
 * Developing scripts for build and deploy to Dev/Production.
 * Docker, Jenkins Pipelines and Bash.
 * Ionic 3.
 * Angular 5 and Bootstrap.
-* Git.
 * DB (SQL server and MySql).
 * Lambda Functions and API Gateway.
 * Serverless and PWA.
-
-
-### Other
-In the past, I worked 3 months in the Lanus City Hall, in the IT Department.
-
-* Help Desk.
-* Technical Service Jr.
-* Reports of status. 
+* Git.
 
 # Aptitudes & Skills
 
@@ -50,9 +42,18 @@ In the past, I worked 3 months in the Lanus City Hall, in the IT Department.
 
 # Education
 
-2013-2017: EET N°5 of Lanús John F. Kennedy, Programming (Technical High School),complete.
+#### 2013-2017: EET N°5 of Lanús John F. Kennedy 
 
+### Programming (Technical High School),complete.
 
+## Other
+-------------
+In the past, I worked 3 months in the Lanus City Hall, in the IT Department.
+
+* Help Desk.
+* Technical Service Jr.
+* Reports of status. 
+  
 # Courses
 
 * Architecture of a Software
@@ -61,8 +62,6 @@ In the past, I worked 3 months in the Lanus City Hall, in the IT Department.
 * Design Thinking
 
 # [Top](#luciano-torres)
-
-<footer></footer>
 
 [Linkedin]: https://ar.linkedin.com/in/ltorres/
 [Zentricx]: http://www.zentricx.com
