@@ -19,10 +19,23 @@ Skype: luciano_torres98
 ### [Zentricx] - September 2017 to present
 
 #### DevOps Jr
+* Managing sites of Arcor in AWS (Win/Linux).
+* Developing scripts for build and deploy to Dev/Production.
+* Docker, Jenkins Pipelines and Bash.
+* Ionic 3.
+* Angular 5 and Bootstrap.
+* Git.
+* DB (SQL server and MySql).
+* Lambda Functions and API Gateway.
+* Serverless and PWA.
 
 
 ### Other
-In the past, I worked 3 months in the Municipality of Lanús, in the IT Area.
+In the past, I worked 3 months in the Lanus City Hall, in the IT Department.
+
+* Help Desk.
+* Technical Service Jr.
+* Reports of status. 
 
 # Aptitudes & Skills
 
