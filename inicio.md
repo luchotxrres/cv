@@ -4,7 +4,7 @@
 
 <img alt="profile" width="18%" src="profile.jpeg" align="right"/>
 
-# Luciano Iván Torres ￼ 
+# Luciano Torres ￼ 
 
 luciano_torres98@hotmail.com
 
@@ -14,7 +14,7 @@ Tel: 4225-4444 Cel: 1159486326
 
 Skype: luciano_torres98
 
-[Linkedin:] | [GitHub]
+[Linkedin] - [GitHub] -
 
 # Experiencia Laboral 
 
@@ -90,7 +90,7 @@ Skype: luciano_torres98
 * Curso Básico de JavaScript – Principiante. 
 
 
-[Linkedin:]: https://ar.linkedin.com/in/ltorres/
+[Linkedin]: https://ar.linkedin.com/in/ltorres/
 [Zentricx]: http://www.zentricx.com
 [Municipalidad de Lanús]: http://www.lanus.gob.ar/
 [GitHub]: https://github.com/luchotxrres
