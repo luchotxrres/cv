@@ -1,3 +1,7 @@
+<a href="https://github.com/luchotxrres/cv" class="btn btn-github"><span class="icon"></span>Español</a>
+
+---
+
 <img alt="profile" width="18%" src="profile.jpeg" align="right"/>
 
 # Luciano Torres 
@@ -42,9 +46,9 @@ Skype: luciano_torres98
 
 # Education
 
-#### 2013-2017: EET N°5 of Lanús John F. Kennedy 
+### 2013-2017: EET N°5 of Lanús John F. Kennedy 
 
-### Programming (Technical High School),complete.
+#### Programming (Technical High School),complete.
 
 ## Other
 -------------
