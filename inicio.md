@@ -14,7 +14,7 @@ Tel: 4225-4444 Cel: 1159486326
 
 Skype: luciano_torres98
 
-[Linkedin] - [GitHub] -
+[Linkedin] - [GitHub]
 
 # Experiencia Laboral 
 
