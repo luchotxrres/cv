@@ -6,10 +6,14 @@
 
 # Luciano Iván Torres ￼ 
 
-luciano_torres98@hotmail.com\
-Buenos Aires, Lanús Oeste\
-Tel: 4225-4444 / Cel: 1159486326\
-Skype: luciano_torres98\
+luciano_torres98@hotmail.com
+
+Buenos Aires, Lanús Oeste
+
+Tel: 4225-4444 Cel: 1159486326
+
+Skype: luciano_torres98
+
 [Linkedin:] | [GitHub]
 
 # Experiencia Laboral 
