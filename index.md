@@ -1,4 +1,4 @@
-<a href="https://github.com/luchotxrres/cv" class="btn btn-github"><span class="icon"></span>Español</a>
+<a href="https://luchotxrres.github.io/cv/inicio" class="btn btn-github"><span class="icon"></span>Español</a>
 
 ---
 

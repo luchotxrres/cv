@@ -1,7 +1,13 @@
+<a href="https://luchotxrres.github.io/cv/" class="btn btn-github"><span class="icon"></span>English</a>
+
+---
+
+<img alt="profile" width="18%" src="profile.jpeg" align="right"/>
+
 # Luciano Iván Torres ￼ 
 
 Fecha de Nacimiento: 23/12/1998    
-<img alt="profile" width="18%" src="profile.jpeg" align="right"/>    
+   
 DNI: 41.537.404 | CUIL: 20-41537404-7
 
 Lanús Oeste, Buenos Aires, Argentina
