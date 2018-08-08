@@ -16,6 +16,12 @@ Skype: luciano_torres98
 
 [Linkedin] - [GitHub]
 
+# Contenido
+- [Experiencia Laboral](#experiencia-laboral)
+- [Estudios](#estudios)
+- [Conocimientos & Skills](#conocimientos--skills)
+- [Cursos & Capacitaciones](#cursos--capacitaciones)
+
 # Experiencia Laboral 
 
 ## **Septiembre 2017 – Actualidad**  
@@ -80,7 +86,7 @@ Skype: luciano_torres98
 ### **Inglés**
 (Escritura/Lectura) Avanzado | (Oral) Intermedio - Lyceum of Elementary English Culture. (2006-2009) 
 
-# Cursos y Capacitaciones 
+# Cursos & Capacitaciones 
 
 * Arquitectura como software. 
 * H2H. 
