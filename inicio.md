@@ -6,16 +6,11 @@
 
 # Luciano Iván Torres ￼ 
 
-Fecha de Nacimiento: 23/12/1998    
-   
-DNI: 41.537.404 | CUIL: 20-41537404-7
-
-Lanús Oeste, Buenos Aires, Argentina
-
-Tel: 4225-4444 | Cel:1559486326
-
-luciano_torres98@hotmail.com
-
+Fecha de Nacimiento: 23/12/1998\
+DNI: 41.537.404 | CUIL: 20-41537404-7\
+Lanús Oeste, Buenos Aires, Argentina\
+Tel: 4225-4444 | Cel:1559486326\
+luciano_torres98@hotmail.com\
 [Linkedin:] | [GitHub]
 
 # Experiencia Laboral 
