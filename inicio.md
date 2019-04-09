@@ -10,7 +10,7 @@ luciano_torres98@hotmail.com
 
 Buenos Aires, Lanús Oeste
 
-Tel: 4225-4444 Cel: 1159486326
+Cel: 1122967691
 
 Skype: luciano_torres98
 
@@ -26,11 +26,13 @@ Skype: luciano_torres98
 
 ## **Septiembre 2017 – Actualidad**  
 
-## [Zentricx] -  DevOps Jr
+## [Zentricx] -  DevOps
 
 * Administración de sitios web Linux/Windows. 
 
 * Infraestructura Amazon Web Services (AWS). 
+
+* Atomatización de Pipelines y Deploys (CI/CD).
 
 * Desarrollo Mobile en Ionic y apache cordova. 
 
@@ -40,12 +42,11 @@ Skype: luciano_torres98
 
 * JavaScript. 
 * HTML y CSS.
-* REST APIs.
+* REST APIs en Node.
 * Aplicación ServerLess (Lambda Functions & API Gateway - AWS). 
 * Linux Bash. 
 * Docker.
 * CI/CD Jenkins.
-* Configuración de WebService de Oracle RightNow. 
 
 ---
 
@@ -74,7 +75,7 @@ Skype: luciano_torres98
 
 * Desarrollo FullStack.
 * Cloud Computing (AWS-Azure).
-* Experiencia de +3 años en JavaScript. 
+* Experiencia de 3 años en JavaScript. 
 * Linux – Bash Command Line. 
 * Implementación API REST. 
 * Administrador BD. 
@@ -92,8 +93,7 @@ Skype: luciano_torres98
 * H2H. 
 * Customer Experience. 
 * Design Thinking.
-* Liderazgo en comunicación. 
-* Curso Básico de JavaScript – Principiante. 
+* Liderazgo en situaciones de comunicación. 
 
 
 [Linkedin]: https://ar.linkedin.com/in/ltorres/

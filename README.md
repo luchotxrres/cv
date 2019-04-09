@@ -5,9 +5,9 @@
 
 luciano_torres98@hotmail.com
 
-71 Pichincha st - Dpt 5 - Buenos Aires, Lanús Oeste
+1071 Balbin - Dpt 5 - Buenos Aires, Valentín Alsina.
 
-Tel: 4225-4444 / Mobile: 1159486326
+Mobile: 1122967691
 #### [Skype: luciano_torres98] | [LinkedIn] 
 
 # Table of Contents
@@ -52,9 +52,10 @@ In the past, I worked 3 months in the Municipality of Lanús, in the IT Area.
 * Customer Experience
 * H2H
 * Design Thinking
+* Leadership
 
 
-## [Skype: luciano_torres98] | [LinkedIn] | [Medium] 
+## [Skype: luciano_torres98] | [LinkedIn] | 
 
 [Linkedin]: https://ar.linkedin.com/in/ltorres/
 [Zentricx]: http://www.zentricx.com
