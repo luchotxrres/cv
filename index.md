@@ -7,8 +7,8 @@
 # Luciano Torres 
 
 luciano_torres98@hotmail.com    
-71 Pichincha st  - Dpt 5 - Buenos Aires, Lanús Oeste    
-Tel: 4225-4444 / Mobile: 1159486326    
+1071 Balbin st  - Dpt 5 - Buenos Aires, Valentín Alsina    
+Mobile: 1122967691    
 Skype: luciano_torres98
 
 # Table of Contents
@@ -64,6 +64,7 @@ In the past, I worked 3 months in the Lanus City Hall, in the IT Department.
 * Customer Experience
 * H2H
 * Design Thinking
+* Leadership
 
 # [Top](#luciano-torres)
 
