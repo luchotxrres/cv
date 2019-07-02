@@ -26,27 +26,31 @@ Skype: luciano_torres98
 
 ## **Septiembre 2017 – Actualidad**  
 
-## [Zentricx] -  DevOps
+## [Zentricx] -  Desarrollador FullStack
+* Desarrollador FullStack Javascript +2 años.
 
-* Administración de sitios web Linux/Windows. 
+* JavaScript y TypeScript, stack MEAN (Mongo, Express, Angular, Node).
 
-* Infraestructura Amazon Web Services (AWS). 
-
-* Atomatización de Pipelines y Deploys (CI/CD).
+* API REST NodeJS
 
 * Desarrollo Mobile en Ionic y apache cordova. 
 
-* Desarrollo Web en Angular 2, 4 y 5. 
+* GIT.
+
+* Administración de sitios web Linux/Windows. 
+
+* Atomatización de Pipelines y Deploys Jenkins (CI/CD).
 
 ### Tecnologías utilizadas en el desarrollo: 
 
-* JavaScript. 
+* JavaScript y TypeScript.
 * HTML y CSS.
-* REST APIs en Node.
-* Aplicación ServerLess (Lambda Functions & API Gateway - AWS). 
-* Linux Bash. 
+* NodeJS.
+* Aplicación ServerLess (Lambda Functions & API Gateway - AWS).
+* Linux Bash.
 * Docker.
-* CI/CD Jenkins.
+* Apache y Nginx.
+* Jenkins.
 
 ---
 
@@ -54,11 +58,11 @@ Skype: luciano_torres98
 
 ## [Municipalidad de Lanús] - HelpDesk  
 
-* Reportes de Estado. 
+* Reportes de Estado.
 
-* Servicio técnico Básico. 
+* Servicio técnico Básico.
 
-* Experiencia de Usuario. 
+* Experiencia de Usuario.
 
 
 # Estudios 
@@ -69,31 +73,32 @@ Skype: luciano_torres98
 
 ### **Secundarios** 
 
-### EEST N°5 Lanús - Técnico en Programación (2013-2017)
+### EEST N°5 Lanús - Tecnicatura Superior en Programación (2013-2017)
 
 # Conocimientos & Skills: 
 
 * Desarrollo FullStack.
+* Experiencia de +2 años en JavaScript. 
+* Implementación API REST.
 * Cloud Computing (AWS-Azure).
-* Experiencia de 3 años en JavaScript. 
-* Linux – Bash Command Line. 
-* Implementación API REST. 
-* Administrador BD. 
-* Aprendizaje constante. 
+* Linux – Bash Command Line.
+* Administrador BD.
+* Aprendizaje constante.
 * Comprensión rápida de las distintas tecnologías. 
 
 # Idiomas 
 
 ### **Inglés**
+Upper Intermediate
 (Escritura/Lectura) Avanzado | (Oral) Intermedio - Lyceum of Elementary English Culture. (2006-2009) 
 
 # Cursos & Capacitaciones 
 
-* Arquitectura como software. 
-* H2H. 
-* Customer Experience. 
+* Arquitectura como software.
+* H2H.
+* Customer Experience.
 * Design Thinking.
-* Liderazgo en situaciones de comunicación. 
+* Liderazgo en situaciones de comunicación.
 
 
 [Linkedin]: https://ar.linkedin.com/in/ltorres/

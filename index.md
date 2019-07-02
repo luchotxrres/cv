@@ -22,33 +22,35 @@ Skype: luciano_torres98
 
 ### [Zentricx] - September 2017 to present
 
-### DevOps Jr
+### Software FullStack Developer
+* FullStack Javascript Developer +2 years. 
+* Work with JavaScript and TypeScript, stack MEAN (Mongo, Express, Angular, Node).
+* Ionic 3 to Develop Mobile Apps using JavaScript and TypeScript.
+* Git.
 * Managing sites in AWS (Win/Linux).
 * Developing scripts for build and deploy to Dev/Production.
+* Apache and Nginx WebServer.
 * Docker, Jenkins Pipelines and Bash.
-* Ionic 3.
-* Angular 5 and Bootstrap.
 * DB (SQL server and MySql).
 * Lambda Functions and API Gateway.
 * Serverless and PWA.
-* Git.
 
 # Aptitudes & Skills
 
-* Linux, Windows.
-* Bash, JavaScript.
+* JavaScript, Python and Bash.
 * DB Administration.
-* Networking and security
+* Linux.
+* Networking.
 * Cloud Computing (AWS - Azure).
 * Constantly learning.
-* Quick learning of new technologies.
+* Lover of new technologies.
 * 99% is not 100%.
 
 # Education
 
 ### 2013-2017: EET N°5 of Lanús John F. Kennedy 
 
-#### Programming (Technical High School),complete.
+#### Higher degree in Programming (Technical High School),complete.
 
 ## Other
 -------------
@@ -56,7 +58,7 @@ In the past, I worked 3 months in the Lanus City Hall, in the IT Department.
 
 * Help Desk.
 * Technical Service Jr.
-* Reports of status. 
+* Reports of status.
   
 # Courses
 
