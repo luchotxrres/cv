@@ -90,6 +90,7 @@ Skype: luciano_torres98
 
 ### **Inglés**
 Upper Intermediate
+
 (Escritura/Lectura) Avanzado | (Oral) Intermedio - Lyceum of Elementary English Culture. (2006-2009) 
 
 # Cursos & Capacitaciones 
