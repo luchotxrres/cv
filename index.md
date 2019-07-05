@@ -4,8 +4,6 @@
 
 <img alt="profile" width="18%" src="profile.jpeg" align="right"/>
 
-</br>
-
 # Luciano Torres
 
 luciano_torres98@hotmail.com    
