@@ -1,7 +1,7 @@
 <a href="https://luchotxrres.github.io/cv/" class="btn btn-github"><span class="icon"></span>English</a>
 
 <a href="https://luchotxrres.github.io/cv/inicio.pdf" target="blank" class="btn btn-github">
-    <span class="icon">PDF</span>
+    <span class="icon"></span>PDF
 </a>
 
 ---
