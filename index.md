@@ -1,5 +1,10 @@
 <a href="https://luchotxrres.github.io/cv/inicio" class="btn btn-github"><span class="icon"></span>Español</a>
 
+<a href="https://luchotxrres.github.io/cv/index.pdf" target="blank" class="btn btn-github">
+    <span class="icon">Open PDF</span>
+</a>
+
+
 ---
 
 <img alt="profile" width="18%" src="profile.jpeg" align="right"/>
