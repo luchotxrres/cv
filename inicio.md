@@ -31,6 +31,20 @@ Skype: luciano_torres98
 
 ## **Septiembre 2017 – Actualidad**  
 
+## [Digital House] -  Desarrollador FullStack
+
+* API REST NodeJS.
+
+* React JS.
+
+* MySQL & Mongo.
+
+* AWS.
+
+* TDD.
+
+## **Septiembre 2017 – Agosto 2019**  
+
 ## [Zentricx] -  Desarrollador FullStack
 * Desarrollador FullStack Javascript +2 años.
 

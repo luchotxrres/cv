@@ -24,8 +24,18 @@ Skype: luciano_torres98
 - [Courses](#courses)
 
 # Experience
+### [Digital House] - September 2019 to present
+* API REST NodeJS.
 
-### [Zentricx] - September 2017 to present
+* React JS.
+
+* MySQL & Mongo.
+
+* AWS.
+
+* TDD.
+
+### [Zentricx] - September 2017 to August 2019
 
 ### Software FullStack Developer
 * FullStack Javascript Developer +2 years. 
