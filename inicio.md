@@ -49,7 +49,7 @@ Skype: luciano_torres98
 
 ## **Septiembre 2017 – Agosto 2019**  
 
-## [Zentricx] -  Desarrollador FullStack
+## [Zentricx] -  Desarrollador FullStack/ DevOps
 * Desarrollador FullStack Javascript +2 años.
 
 * JavaScript y TypeScript, stack MEAN (Mongo, Express, Angular, Node).

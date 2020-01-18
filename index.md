@@ -41,7 +41,7 @@ Skype: luciano_torres98
 
 ### [Zentricx] - September 2017 to August 2019
 
-### Software FullStack Developer
+### Software FullStack Developer/ DevOps
 * FullStack Javascript Developer +2 years. 
 * Work with JavaScript and TypeScript, stack MEAN (Mongo, Express, Angular, Node).
 * Ionic 3 to Develop Mobile Apps using JavaScript and TypeScript.
