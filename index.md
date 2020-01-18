@@ -35,6 +35,10 @@ Skype: luciano_torres98
 
 * TDD.
 
+* Docker.
+
+* Redis
+
 ### [Zentricx] - September 2017 to August 2019
 
 ### Software FullStack Developer
