@@ -29,7 +29,7 @@ Skype: luciano_torres98
 
 # Experiencia Laboral 
 
-## **Septiembre 2017 – Actualidad**  
+## **Septiembre 2019 – Actualidad**  
 
 ## [Digital House] -  Desarrollador FullStack
 
@@ -42,6 +42,10 @@ Skype: luciano_torres98
 * AWS.
 
 * TDD.
+
+* Docker.
+
+* Redis
 
 ## **Septiembre 2017 – Agosto 2019**  
 
