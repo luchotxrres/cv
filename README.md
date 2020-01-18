@@ -1,51 +1,76 @@
 # [GITHUB PAGE]
 <img alt="profile" width="18%" src="profile.jpeg" align="right"/>
 
-# Luciano Torres 
+# Luciano Torres
 
-luciano_torres98@hotmail.com
-
-1071 Balbin - Dpt 5 - Buenos Aires, Valentín Alsina.
-
-Mobile: 1122967691
-#### [Skype: luciano_torres98] | [LinkedIn] 
+luciano_torres98@hotmail.com    
+1071 Balbin st  - Dpt 5 - Buenos Aires, Valentín Alsina    
+Mobile: 1122967691    
+Skype: luciano_torres98
 
 # Table of Contents
 - [Experience](#experience)
-   - [Other](#other)
+    - [Other](#other)
 - [Aptitudes & Skills](#aptitudes--skills)
 - [Education](#education)
 - [Courses](#courses)
 
 # Experience
+### [Digital House] - September 2019 to present
+* API REST NodeJS.
 
-### [Zentricx] - September 2017 to present
+* React JS.
 
-#### DevOps Jr
+* MySQL & Mongo.
 
+* AWS.
 
-### Other
-In the past, I worked 3 months in the Municipality of Lanús, in the IT Area.
+* TDD.
+
+* Docker.
+
+* Redis
+
+### [Zentricx] - September 2017 to August 2019
+
+### Software FullStack Developer/ DevOps
+* FullStack Javascript Developer +2 years. 
+* Work with JavaScript and TypeScript, stack MEAN (Mongo, Express, Angular, Node).
+* Ionic 3 to Develop Mobile Apps using JavaScript and TypeScript.
+* Git.
+* Managing sites in AWS (Win/Linux).
+* Developing scripts for build and deploy to Dev/Production.
+* Apache and Nginx WebServer.
+* Docker, Jenkins Pipelines and Bash.
+* DB (SQL server and MySql).
+* Lambda Functions and API Gateway.
+* Serverless and PWA.
 
 # Aptitudes & Skills
 
-* Linux, Windows.
-* Bash, JavaScript.
+* JavaScript, Python and Bash.
 * DB Administration.
-* Networking and security
+* Linux.
+* Networking.
 * Cloud Computing (AWS - Azure).
-* Constantly learning and updating knowledge.
-* Aptitude for rapid learning of new technologies.
-* Always looking for doing the best possible job.
-
+* Constantly learning.
+* Lover of new technologies.
+* 99% is not 100%.
 
 # Education
 
-### 2013-2017: EET N°5 of Lanús John F. Kennedy
+### 2013-2017: EET N°5 of Lanús John F. Kennedy 
 
-#### Programming (Technical High School),complete.
+#### Higher degree in Programming (Technical High School),complete.
 
+## Other
+-------------
+In the past, I worked 3 months in the Lanus City Hall, in the IT Department.
 
+* Help Desk.
+* Technical Service Jr.
+* Reports of status.
+  
 # Courses
 
 * Architecture of a Software
@@ -54,11 +79,7 @@ In the past, I worked 3 months in the Municipality of Lanús, in the IT Area.
 * Design Thinking
 * Leadership
 
-
-## [Skype: luciano_torres98] | [LinkedIn] | 
+# [Top](#luciano-torres)
 
 [Linkedin]: https://ar.linkedin.com/in/ltorres/
 [Zentricx]: http://www.zentricx.com
-[GITHUB PAGE]: https://luchotxrres.github.io/cv/
-[Skype: luciano_torres98]: luciano_torres98
-[Medium]: https://medium.com/@luchotxrres
