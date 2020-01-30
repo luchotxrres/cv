@@ -83,4 +83,4 @@ In the past, I worked 3 months in the Lanus City Hall, in the IT Department.
 
 [Linkedin]: https://ar.linkedin.com/in/ltorres/
 [Zentricx]: http://www.zentricx.com
-[GITHUB PAGE]: https://luchotxrres.github.io/CV/	
+[GITHUB PAGE]: https://luchotxrres.github.io/cv/	
