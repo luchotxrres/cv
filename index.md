@@ -39,6 +39,16 @@ Skype: luciano_torres98
 
 * Redis
 
+* Serverless Framework
+
+* Dynamo DB
+
+* Jest, mocha, chai
+
+* TDD
+
+* Principios SOLID
+
 ### [Zentricx] - September 2017 to August 2019
 
 ### Software FullStack Developer/ DevOps
