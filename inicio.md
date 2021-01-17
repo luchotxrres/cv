@@ -53,7 +53,7 @@ Skype: luciano_torres98
 
 * Jest, mocha, chai
 
-* SOLID principles
+* Principios SOLID
 ## **Septiembre 2017 – Agosto 2019**  
 
 ## [Zentricx] -  Desarrollador FullStack/ DevOps
