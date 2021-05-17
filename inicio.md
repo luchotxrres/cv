@@ -54,6 +54,8 @@ Skype: luciano_torres98
 * Jest, mocha, chai
 
 * Principios SOLID
+
+* Metodología SCRUM.
 ## **Septiembre 2017 – Agosto 2019**  
 
 ## [Zentricx] -  Desarrollador FullStack/ DevOps
@@ -71,6 +73,7 @@ Skype: luciano_torres98
 
 * Atomatización de Pipelines y Deploys Jenkins (CI/CD).
 
+* Metodología SCRUM
 ### Tecnologías utilizadas en el desarrollo: 
 
 * JavaScript y TypeScript.

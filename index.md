@@ -37,22 +37,24 @@ Skype: luciano_torres98
 
 * Docker.
 
-* Redis
+* Redis.
 
-* Serverless Framework
+* Serverless Framework.
 
-* Dynamo DB
+* Dynamo DB.
 
-* Jest, mocha, chai
+* Jest, mocha, chai.
 
-* TDD
+* TDD.
 
-* SOLID principles
+* SOLID principles.
+
+* SCRUM Methodology.
 
 ### [Zentricx] - September 2017 to August 2019
 
 ### Software FullStack Developer/ DevOps
-* FullStack Javascript Developer +2 years. 
+* FullStack Javascript Developer +3 years. 
 * Work with JavaScript and TypeScript, stack MEAN (Mongo, Express, Angular, Node).
 * Ionic 3 to Develop Mobile Apps using JavaScript and TypeScript.
 * Git.
@@ -63,6 +65,7 @@ Skype: luciano_torres98
 * DB (SQL server and MySql).
 * Lambda Functions and API Gateway.
 * Serverless and PWA.
+* SCRUM methodology.
 
 # Aptitudes & Skills
 
