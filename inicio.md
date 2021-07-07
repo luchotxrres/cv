@@ -15,7 +15,7 @@ luciano_torres98@hotmail.com
 
 Buenos Aires, Lanús Oeste
 
-Cel: 1122967691
+Cel: +54 9 1122967691
 
 Skype: luciano_torres98
 
@@ -139,3 +139,4 @@ Upper Intermediate
 [Zentricx]: http://www.zentricx.com
 [Municipalidad de Lanús]: http://www.lanus.gob.ar/
 [GitHub]: https://github.com/luchotxrres
+[Digital House]: https://www.digitalhouse.com/

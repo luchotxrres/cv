@@ -12,9 +12,10 @@
 # Luciano Torres
 
 luciano_torres98@hotmail.com    
-1071 Balbin st  - Dpt 5 - Buenos Aires, Valentín Alsina    
-Mobile: 1122967691    
-Skype: luciano_torres98
+1071 Balbin st - Buenos Aires, Valentín Alsina    
+Mobile: +54 9 1122967691    
+
+[Linkedin] - [GitHub]
 
 # Table of Contents
 - [Experience](#experience)
@@ -104,3 +105,5 @@ In the past, I worked 3 months in the Lanus City Hall, in the IT Department.
 
 [Linkedin]: https://ar.linkedin.com/in/ltorres/
 [Zentricx]: http://www.zentricx.com
+[Digital House]: https://www.digitalhouse.com/
+[GitHub]: https://github.com/luchotxrres
