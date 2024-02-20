@@ -25,7 +25,24 @@ Mobile: +54 9 1122967691
 - [Courses](#courses)
 
 # Experience
-### [Digital House] - September 2019 to present
+### [GlobalLogic] - September 2021 to present
+* Project in Go and Java.
+
+* Postgresql.
+
+* AWS.
+
+* TDD.
+
+* Docker.
+
+* TDD.
+
+* SOLID principles.
+
+* SCRUM Methodology.
+  
+### [Digital House] - September 2019 to 2021
 * API REST NodeJS.
 
 * React JS.
@@ -106,4 +123,5 @@ In the past, I worked 3 months in the Lanus City Hall, in the IT Department.
 [Linkedin]: https://ar.linkedin.com/in/ltorres/
 [Zentricx]: http://www.zentricx.com
 [Digital House]: https://www.digitalhouse.com/
+[GlobalLogic]: https://www.globallogic.com/
 [GitHub]: https://github.com/luchotxrres
